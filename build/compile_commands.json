@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/mango/projects/cv-graph/build/src",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/mango/projects/cv-graph/src/. -isystem /home/mango/vcpkg/installed/x64-linux/include  -g   -fopenmp -o CMakeFiles/cv_graph.dir/graph/graph.cpp.o -c /home/mango/projects/cv-graph/src/graph/graph.cpp",
+  "file": "/home/mango/projects/cv-graph/src/graph/graph.cpp"
+},
+{
+  "directory": "/home/mango/projects/cv-graph/build/src",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/mango/projects/cv-graph/src/. -isystem /home/mango/vcpkg/installed/x64-linux/include  -g   -fopenmp -o CMakeFiles/cv_graph.dir/graph/util.cpp.o -c /home/mango/projects/cv-graph/src/graph/util.cpp",
+  "file": "/home/mango/projects/cv-graph/src/graph/util.cpp"
+},
+{
+  "directory": "/home/mango/projects/cv-graph/build/src",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/mango/projects/cv-graph/src/. -isystem /home/mango/vcpkg/installed/x64-linux/include  -g   -fopenmp -o CMakeFiles/cv_graph.dir/node/node_base.cpp.o -c /home/mango/projects/cv-graph/src/node/node_base.cpp",
+  "file": "/home/mango/projects/cv-graph/src/node/node_base.cpp"
+}
+]
