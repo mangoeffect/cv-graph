@@ -1,2 +1,0 @@
-/bin/ar qc libcv_graph.a  CMakeFiles/cv_graph.dir/graph/graph.cpp.o CMakeFiles/cv_graph.dir/graph/util.cpp.o CMakeFiles/cv_graph.dir/node/node_base.cpp.o
-/bin/ranlib libcv_graph.a
